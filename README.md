@@ -1,7 +1,7 @@
 # ClickHandler
 Script to process the tracking links
 
-![alt tag](https://media3.giphy.com/media/2AKeiQiB78lj2/200.gif#316)
+![alt tag](https://media0.giphy.com/media/nKYtROrQ5gX04/200w.gif#311)
 
 1. In order to create necessary tables, run this commands:
 
