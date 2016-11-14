@@ -35,7 +35,9 @@ It contains only one method:
 
 In order to add new doman in to "bad_domains" table,
  please use this artisan command -  
- ``` php artisan domain:add http://test.com ```
+ 
+* ``` php artisan domain:add http://test.com ```
+ 
  where http://test.com - is a name of new domain. I solved to do this, 
  because we have not admin panel. And in order to not enter
  the data manually (into the table).
